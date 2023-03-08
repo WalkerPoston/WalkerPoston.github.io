@@ -31,7 +31,7 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [White Paper 1 - Edward Snowden and the Wiki Leaks Scandal](/pdf/White_Paper_1_-_Edward_Snowden_and_the_Wiki_Leaks_Scandal.pdf)
+### [White Paper 1 - Edward Snowden and the Wiki Leaks Scandal](/pdf/White_Paper_1_Edward_Snowden.pdf)
 
 -   **Class:** CRIM 374 - Principles of Cyber Security
 -   **Grade:**
