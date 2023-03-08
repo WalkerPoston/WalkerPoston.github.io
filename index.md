@@ -51,13 +51,13 @@ Ethics Papers
 Presentations
 -------------
 
-### [Colonial Pipeline Breach](/pdf/Colonial_Pipeline_breach.pdf)
+### [Colonial Pipeline Breach](/pdf/Colonial Pipeline breach.pdf)
 
 - **Class:** CRIM 405 - Principles of Cyber Security
 - **Grade:**
 
 
-### [Buffer Overflow](/pdf/Buffer_Overflow.pdf)
+### [Buffer Overflow](/pdf/Buffer Overflow.pdf)
 
 - **Class:** CSCI 330 - Computer Architecture
 - **Grade:**
