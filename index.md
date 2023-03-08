@@ -33,7 +33,7 @@ Ethics Papers
 
 ### [White Paper 1 - Edward Snowden and the Wiki Leaks Scandal](/pdf/White_Paper_1_Edward_Snowden.pdf)
 
--   **Class:** CRIM 374 - Principles of Cyber Security
+-   **Class:** CRIM 405 - Principles of Cyber Security
 -   **Grade:**
 
 ### [Ethics Paper: Therac-25](/pdf/Ethics_Paper.pdf)
@@ -53,7 +53,7 @@ Presentations
 
 ### [Colonial Pipeline Breach](/pdf/Colonial_Pipeline_breach.pdf)
 
-- **Class:** CRIM 374 - Principles of Cyber Security
+- **Class:** CRIM 405 - Principles of Cyber Security
 - **Grade:**
 
 
