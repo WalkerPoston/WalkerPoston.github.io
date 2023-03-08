@@ -31,19 +31,19 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [White Paper 1 - Edward Snowden and the Wiki Leaks Scandal](/pdf/White_Paper_1_-_Edward_Snowden_and_the_Wiki_Leaks_Scandal.pdf)
 
--   **Class:**  
+-   **Class:** CRIM 374 - Principles of Cyber Security
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Ethics Paper: Therac-25](/pdf/Ethics_Paper.pdf)
 
--   **Class:** 
+-   **Class:** CSCI 315 - Data Structures Analysis
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Network Penetration Ehtics Paper](/pdf/Network_Pen_Ethics_Paper.pdf)
 
--   **Class:** 
+-   **Class:** CSCI 452 - Network Penetration and Ethical Hacking
 -   **Grade:**
 
 ---
