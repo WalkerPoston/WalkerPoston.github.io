@@ -12,17 +12,17 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [HTML Parser and Crawler | CSCI 315]()
+### [HTML Parser and Crawler | CSCI 315](/project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Ruby on Rails Website | CSCI 334](project1)
+### [Ruby on Rails Website | CSCI 334](/project3.md)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Comp Arch lab or Verilog | CSCI 330](project1)
+### [Comp Arch lab or Verilog | CSCI 330](/project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
