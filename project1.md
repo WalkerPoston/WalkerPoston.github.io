@@ -1,11 +1,11 @@
 [Back to Portfolio](./)
 
-Project 1 Title
+Car Vending Machine
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
+-   **Class:** CSCI 325
+-   **Grade:** C+
+-   **Language(s):** JAVA
 -   **Source Code Repository:** [WalkerPoston/OOP-Project](https://github.com/WalkerPoston/OOP-Project)  
     (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
 
