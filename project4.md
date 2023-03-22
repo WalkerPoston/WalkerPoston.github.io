@@ -6,7 +6,7 @@ Computer Architecture Lab/Verilog Lab
 -   **Class:** CSCI 330
 -   **Grade:** B
 -   **Language(s):** Assembly/Verilog
--   **Source Code Repository:** [WalkerPoston/WalkerPoston.github.io/index.md](https://github.com/WalkerPoston/WalkerPoston.github.io/index.md)  
+-   **Source Code Repository:** [WalkerPoston/WalkerPoston.github.io](https://github.com/WalkerPoston/WalkerPoston.github.io)  
     (Please [email me](mailto:walkerposton@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
