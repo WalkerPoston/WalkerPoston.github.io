@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [OOP Project | CSCI 325](WalkerPoston/OOP-Project)
+### [OOP Project | CSCI 325](https://github.com/WalkerPoston/OOP-Project)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
