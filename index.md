@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [OOP Project | CSCI 301](project1)
+### [OOP Project | CSCI 325](project1)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
@@ -17,12 +17,12 @@ Programming Projects
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Ruby on Rails Website | CSCI 325](project1)
+### [Ruby on Rails Website | CSCI 334](project1)
 
 ![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Comp Arch lab or Verilog | CSCI 332](project1)
+### [Comp Arch lab or Verilog | CSCI 330](project1)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 
