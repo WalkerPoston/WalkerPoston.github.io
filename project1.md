@@ -7,7 +7,7 @@ Car Vending Machine
 -   **Grade:** C+
 -   **Language(s):** JAVA
 -   **Source Code Repository:** [WalkerPoston/OOP-Project](https://github.com/WalkerPoston/OOP-Project)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+    (Please [email me](mailto:walkerposton@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
