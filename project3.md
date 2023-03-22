@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-HTML Parser and Crawler
+Ruby on Rails Website
 ===============
 
--   **Class:** CSCI 315
--   **Grade:** D
--   **Language(s):** C++
--   **Source Code Repository:** [WalkerPoston/CSCI-315-Project-2](https://github.com/WalkerPoston/CSCI-315-Project-2)  
+-   **Class:** CSCI 334
+-   **Grade:** C+
+-   **Language(s):** Ruby
+-   **Source Code Repository:** [WalkerPoston/Ruby-on-Rails-Website](https://github.com/WalkerPoston/Ruby-on-Rails-Website)  
     (Please [email me](mailto:walkerposton@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
