@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-HTML Parser and Crawler
+Computer Architecture Lab/Verilog Lab
 ===============
 
--   **Class:** CSCI 315
--   **Grade:** D
--   **Language(s):** C++
--   **Source Code Repository:** [WalkerPoston/CSCI-315-Project-2](https://github.com/WalkerPoston/CSCI-315-Project-2)  
+-   **Class:** CSCI 330
+-   **Grade:** B
+-   **Language(s):** Assembly/Verilog
+-   **Source Code Repository:** [WalkerPoston/WalkerPoston.github.io/index.md](https://github.com/WalkerPoston/WalkerPoston.github.io/index.md)  
     (Please [email me](mailto:walkerposton@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
