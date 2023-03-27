@@ -11,7 +11,7 @@ HTML Parser and Crawler
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project reads HTML files line by line and parses out the input in order to determine if the file is balanced, meaning every opening tag has a closing tag and that those tags are in the correct HTML file structure. Once the files have been parsed, the program will then determine the number of unique pages that can be visited from a certain page.
 
 ## How to compile and run the program
 
