@@ -13,13 +13,12 @@ HTML Parser and Crawler
 
 This project reads HTML files line by line and parses out the input in order to determine if the file is balanced, meaning every opening tag has a closing tag and that those tags are in the correct HTML file structure. Once the files have been parsed, the program will then determine the number of unique pages that can be visited from a certain page.
 
-## How to compile and run the program
+## How to run the program
 
 How to compile (if applicable) and run the project.
 
-```bash
-cd ./project
-python setup.py
+```
+make run
 ```
 
 If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
