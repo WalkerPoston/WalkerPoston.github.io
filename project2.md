@@ -15,13 +15,12 @@ This project reads HTML files line by line and parses out the input in order to 
 
 ## How to run the program
 
-How to compile (if applicable) and run the project.
+How to run the project.
 
 ```
 make run
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
