@@ -13,12 +13,18 @@ HTML Parser and Crawler
 
 This project reads HTML files line by line and parses out the input in order to determine if the file is balanced, meaning every opening tag has a closing tag and that those tags are in the correct HTML file structure. Once the files have been parsed, the program will then determine the number of unique pages that can be visited from a certain page.
 
-## How to run the program
+## How to compile and run the project
 
-How to run the project.
+How to compile and run the project.
 
 ```
 make run
+```
+
+How to run individual files.
+
+```
+./html-test pages/file-name.html
 ```
 
 
@@ -26,16 +32,11 @@ make run
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+Once the program is executed, the results will be output to the screen (see Fig 1). You will see in the output that the program parsed all of the files that were included in the code. Then, below that, there will be a table with three columns that have the page, whetheer the page is balanced, and the number of pages that can be visited from that page. 
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Project-2-exe.png)  
+Fig 1. Program output
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
 
 ## 3. Additional Considerations
 
