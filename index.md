@@ -14,7 +14,7 @@ Programming Projects
 ---
 ### [HTML Parser and Crawler | CSCI 315](/project2.md)
 
-![Project 2 Thumbnail Name](images/Project-2-exe.png)
+![Project 2 Running All Files](images/Project2-AllFiles.png)
 
 ---
 ### [Ruby on Rails Website | CSCI 334](/project3.md)
