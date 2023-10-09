@@ -11,9 +11,11 @@ Car Vending Machine
 
 ## Project description
 
+This project was the final project for CSCI 325. It should act like a vending machine but for cars and trucks. Once the user loads into the main screen, they have the option to search for a car, buy a car, or sell their car. On the left side of the screen, there are parameters that can be used to help specify the search, like the vehicle's make, model, and color. These parameters are optional, and not required for the search. What happens when there are no parameters entered, the program will list all of the vehicles that are in the inventory. To buy a vehicle from the inventory, all that needs to be done is select the vehicle to be purchased and click "Buy". This will remove the vehicles from the inventory. To add a vehicle to the inventory, first, the sell button must be clicked. Then, the  parameters must be entered and all of the maintenance boxes checked. If any of the maintenance boxes are not checked, then the program will ask for that maintenance item to be fixed then the box checked. Once all the sale parameters are checked and the "Sell" button is clicked, that vehicle will be added to the inventory.
 
+## How to run the program
 
-## How to compile and run the program
+Open up Apache NetBeans IDE 17 with the Java Development Kit 8. Open the project and click the green play button which runs the project.
 
 How to compile (if applicable) and run the project.
 
@@ -22,7 +24,7 @@ cd ./project
 python setup.py
 ```
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+If the programming language does not require compilation, update the heading to “How to run the program.” If your application is deployed on a remote service, include instructions on how to deploy it.
 
 ## UI Design
 
