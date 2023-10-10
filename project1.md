@@ -11,7 +11,7 @@ Car Vending Machine
 
 ## Project description
 
-This project was the final project for CSCI 325. It should act like a vending machine but for cars and trucks. Once the user loads into the main screen, they have the option to search for a car, buy a car, or sell their car. On the left side of the screen, there are parameters that can be used to help specify the search, like the vehicle's make, model, and color. These parameters are optional, and not required for the search. What happens when there are no parameters entered, the program will list all of the vehicles that are in the inventory. To buy a vehicle from the inventory, all that needs to be done is select the vehicle to be purchased and click "Buy". This will remove the vehicles from the inventory. To add a vehicle to the inventory, first, the sell button must be clicked. Then, the  parameters must be entered and all of the maintenance boxes checked. If any of the maintenance boxes are not checked, then the program will ask for that maintenance item to be fixed then the box checked. Once all the sale parameters are checked and the "Sell" button is clicked, that vehicle will be added to the inventory.
+This project is supposed to resemble a vending machine for vehicles. The user will have the option to search the existing inventory, purchase a vehicle, or sell their vehicle. To search the inventory, the user will enter details like, make, model, and color, and all of the available vehicles with those specifications will be displayed. To purchase a vehicle, once the user finds the vehicle they wish to purchase, all they need to do is click the buy button and the vehicle will be removed from the inventory. For the user to sell their vehicle, they first need to click the sell button. After the sell button is clicked, a screen will be displayed asking them to enter their vehicle's make, model, and color. they will also need to check all of the boxes regarding the maintenance of their vehicle. if they try to sell their vehicle with any of the maintenance boxes unchecked, the program will ask them to fix the issue and check the box. Once all the boxes are checked and the sell button is clicked, the user's vehicle will be added to the inventory.
 
 ## How to run the program
 
@@ -28,15 +28,13 @@ If the programming language does not require compilation, update the heading to 
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+This project was the final project for CSCI 325. It should act like a vending machine but for vehicles. Once the user loads into the main screen, they have the option to search for a car, buy a car, or sell their car (Figure 1). On the left side of the screen, there are parameters that can be used to help specify the search, like the vehicle's make, model, and color. These parameters are optional, and not required for the search. What happens when there are no parameters entered, the program will list all of the vehicles that are in the inventory (Figure 2). To buy a vehicle from the inventory, all that needs to be done is to select the vehicle to be purchased, which will give you a balance, and click "Buy" (Figure 3). This will remove the vehicle from the inventory (Figure 4). To add a vehicle to the inventory, first, the sell button must be clicked. Then, the  parameters must be entered and all of the maintenance boxes checked (Figure 5). If any of the maintenance boxes are not checked, then the program will ask the user to address the issue and then check that box (Figure 6). Once all the sale parameters are checked and the "Sell" button is clicked, that vehicle will be added to the inventory (Figure 7).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
-
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/OOP_Project_thumbnail.png)  
+Fig 1. The Main screen
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+Fig 2. Output when there are no parameters specified.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 3. Feedback when an error occurs.
