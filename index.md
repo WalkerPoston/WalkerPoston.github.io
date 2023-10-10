@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [OOP Project | CSCI 325](/project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/OOP_Project_thumbnail.jpg)
 
 ---
 ### [HTML Parser and Crawler | CSCI 315](/project2.md)
