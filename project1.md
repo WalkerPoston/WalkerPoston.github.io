@@ -37,22 +37,22 @@ To add a vehicle to the inventory, first, the sell button must be clicked. Then,
 ![screenshot](images/OOP_Project_thumbnail.png)  
 Fig 1. The Main screen
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/OOP_Figure_2.png)  
 Fig 2. Output when there are no parameters specified.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/OOP_Figure_3.png)  
 Fig 3. Buying a vehicle.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/OOP_Figure_4.png)  
 Fig 4. The vehicle has been removed from the inventory.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/OOP_Figure_5.png)  
 Fig 5. Sell screen when all parameters are entered and maintenance boxes are checked.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/OOP_Figure_6.png)  
 Fig 6. Sell screen with unchecked maintenance boxes.
 
-![screenshot](images/dummy_thumbnail.jpg)  
+![screenshot](images/OOP_Figure_7.png)  
 Fig 7. A new vehicle is shown in the inventory.
 
 ## 3. Additional Considerations
