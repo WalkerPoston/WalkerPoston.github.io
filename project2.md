@@ -13,7 +13,7 @@ HTML Parser and Crawler
 
 This project reads HTML files line by line and parses out the input in order to determine if the file is balanced, meaning every opening tag has a closing tag and that those tags are in the correct HTML file structure. Once the files have been parsed, the program will then determine the number of unique pages that can be visited from a certain page.
 
-## How to compile and run the project
+## How to compile and run the project with all files
 
 How to compile and run the project.
 
