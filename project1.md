@@ -17,15 +17,6 @@ This project is supposed to resemble a vending machine for vehicles. The user wi
 
 Open up Apache NetBeans IDE 17 with the Java Development Kit 8. Open the project and click the green play button which runs the project.
 
-How to compile (if applicable) and run the project.
-
-```bash
-cd ./project
-python setup.py
-```
-
-If the programming language does not require compilation, update the heading to “How to run the program.” If your application is deployed on a remote service, include instructions on how to deploy it.
-
 ## UI Design
 
 This project was the final project for CSCI 325. It should act like a vending machine but for vehicles. Once the user loads into the main screen, they have the option to search for a car, buy a car, or sell their car (Figure 1). On the left side of the screen, there are parameters that can be used to help specify the search, like the vehicle's make, model, and color. These parameters are optional, and not required for the search. What happens when there are no parameters entered, the program will list all of the vehicles that are in the inventory (Figure 2). 
