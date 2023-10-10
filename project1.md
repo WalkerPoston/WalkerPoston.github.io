@@ -32,7 +32,7 @@ This project was the final project for CSCI 325. It should act like a vending ma
 
 To buy a vehicle from the inventory, all that needs to be done is to select the vehicle to be purchased, which will give you a balance, and click "Buy" (Figure 3). This will remove the vehicle from the inventory (Figure 4). 
 
-To add a vehicle to the inventory, first, the sell button must be clicked. Then, the  parameters must be entered and all of the maintenance boxes checked (Figure 5). If any of the maintenance boxes are not checked, then the program will ask the user to address the issue and then check that box (Figure 6). Once all the sale parameters are checked and the "Sell" button is clicked, that vehicle will be added to the inventory (Figure 7).
+To add a vehicle to the inventory, first, the sell button must be clicked. Then, the  parameters must be entered and all of the maintenance boxes checked (Figure 5). If any of the maintenance boxes are not checked, then the program will ask the user to address the issue and then check that box (Figure 6). Once all the sale parameters are entered, the maintenance boxes checked and the "Sell" button is clicked, that vehicle will be added to the inventory (Figure 7).
 
 ![screenshot](images/OOP_Project_thumbnail.png)  
 Fig 1. The Main screen
