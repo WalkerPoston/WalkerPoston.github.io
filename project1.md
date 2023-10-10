@@ -41,7 +41,19 @@ Fig 1. The Main screen
 Fig 2. Output when there are no parameters specified.
 
 ![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+Fig 3. Buying a vehicle.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 4. The vehicle has been removed from the inventory.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 5. Sell screen when all parameters are entered and maintenance boxes are checked.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 6. Sell screen with unchecked maintenance boxes.
+
+![screenshot](images/dummy_thumbnail.jpg)  
+Fig 7. A new vehicle is shown in the inventory.
 
 ## 3. Additional Considerations
 
