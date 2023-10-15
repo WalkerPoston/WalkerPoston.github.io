@@ -27,16 +27,40 @@ rails s
 
 ## UI Design
 
-This project resembles a website created for a charity 5k run to help raise money for the Save the Rhinos Foundation. For a user, the first thing they see when they load up the website is the home page that describes the foundation and its mission (Figure 1). In the navigation bar at the top of the screen, the next page is the Charity page, which is the exact same as the home page. After that, the next page is the login page which is for users that have already created an account (Figure 2). The next page is the sign-up page where people can sign up for the 5k (Figure 3). Once someone signs up for the 5k, they will be taken to their account page where all of their account information is listed (Figure 4). Also at the top, there will be two new tabs, one is the account tab which takes the user to their account page. The other one takes the user to the Race Day Details page, which gives additional information to the user regarding different events taking place at the race, the race's location, and a map outlaying the race route (Figure 5). If the user is an admin, then they will have two more additional tabs. One of the tabs is the Users tab, which shows all of the users who have signed up along with options to delete a user's account and to make a user an admin (Figure 6). The other tab is the Teams tab which shows all of the teams competing in the race (Figure 7). In the Teams tab, there are three options that an admin has, which are show, edit, and delete. The show option displays all the members of a team (Figure 8). The edit option allows an admin to edit the team name (Figure 9). The delete option allows an admin to delete a team (Figure 10).
+This project resembles a website created for a charity 5k run to help raise money for the Save the Rhinos Foundation. For a user, the first thing they see when they load up the website is the home page that describes the foundation and its mission (Figure 1). In the navigation bar at the top of the screen, the next page is the Charity page, which is the exact same as the home page. The next page is the Race Info page which will have some basic details for the race (Figure 2). After that, the next page is the login page which is for users that have already created an account (Figure 3). The next page is the sign-up page where people can sign up for the 5k (Figure 4). Once someone signs up for the 5k, they will be taken to their account page where all of their account information is listed (Figure 5). Also at the top, there will be two new tabs, one is the account tab which takes the user to their account page. The other one takes the user to the Race Day Details page, which gives additional information to the user regarding different events taking place at the race, the race's location, and a map outlaying the race route (Figure 6). If the user is an admin, then they will have two more additional tabs. One of the tabs is the Users tab, which shows all of the users who have signed up along with options to delete a user's account and to make a user an admin (Figure 7). The other tab is the Teams tab which shows all of the teams competing in the race (Figure 8). In the Teams tab, there are three options that an admin has, which are show, edit, and delete. The show option displays all the members of a team (Figure 9). The edit option allows an admin to edit the team name (Figure 10). The delete option allows an admin to delete a team.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/Home_Page.png)  
+Fig 1. The Home page.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/Race_Info_Page.png)  
+Fig 2. The Race Info Page.
 
-![screenshot](images/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/Login_Page.png)  
+Fig 3. The Login Page.
+
+![screenshot](images/Sign_Up_Page_Top.png)  
+Fig 4. The top of the Sign-Up Page.
+
+![screenshot](images/Sign_Up_Page_Bottom.png)  
+Fig 4. The lower portion of the Sign-Up Page
+
+![screenshot](images/User_Account_Page.png)  
+Fig 5. The user's account page
+
+![screenshot](images/Race_Day_Details_Page.png)  
+Fig 6. The Race Day Details page.
+
+![screenshot](images/Users_Page_Admin.png)  
+Fig 7. A page listing all of the users.
+
+![screenshot](images/Teams_Page_Admin.png)  
+Fig 8. A page listing all of the teams competing in the race.
+
+![screenshot](images/Show_Team_Memebers.png)  
+Fig 9. When the Show option is clicked, all of the team members are displayed.
+
+![screenshot](images/Edit_Team.png)  
+Fig 10. When the Edit option is clicked, the admin can edit the team name.
 
 ## 3. Additional Considerations
 
