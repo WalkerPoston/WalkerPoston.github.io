@@ -11,24 +11,23 @@ Ruby on Rails Website
 
 ## Project description
 
-This is the final project for CSCI 334 - User Interface Design. 
+This is the final project for CSCI 334 - User Interface Design. The project is supposed to be a mock-up of a website for a charity 5k run hosted by the Save the Rhinos Foundation. On the home page, it gives some details about the charity, its mission, and how it helps fund-raise for the charity. There is also a link for people to sign up for the race. The "Charity" page and the home page are the same and have the same information on them. The "Race Info" page gives details about the race including the date, time, and location of where the race will be taking place. The "Log In" is where a user logs into their account. The "Sign Up" page is where a user signs up to participate in the race.
 
-## How to compile and run the program
+Once a user has signed up for the race, they will have access to two new pages. The first page is their account page, which they will be taken to after they click the "Create my account" button. The second page is the "Race Day Details" page, which will show new information about the race including times for different events and a map of the race route. When the user is on their account page and clicks on the "Account" tab at the top, a drop-down menu will pop up with the options to view their profile, edit their profile, and log out. When they click "View Profile", they will be taken to their account where they will be able to see their account information, team members, and the race route. When they click "Edit Profile" they will see a page similar to the sign-up page, where they can update any information that they need to. When the user clicks "Log out", they will be logged out of their account and taken back to the home page.
 
-How to compile (if applicable) and run the project.
+For admins, there are an additional two pages, a "Users" page and a "Teams" page. On the "Users" page, the admin has the ability to delete a user's account, make a user an admin, and view the user's account information. On the "Teams" page, the admin has the ability to show, edit, delete, and create a new team. When the "Show" button is clicked all of the members on that team will be displayed. When the "Edit" button is clicked, the admin can edit the team name. When the "Delete" button is clicked, that team will be deleted. When the "New Team" button is clicked, the admin can create a new team.
+
+## How to run the program
+
+How to run the project.
 
 ```bash
-cd ./project
-python setup.py
+rails s
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
-
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
 
 ![screenshot](images/dummy_thumbnail.jpg)  
 Fig 1. The launch screen
