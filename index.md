@@ -19,7 +19,7 @@ Programming Projects
 ---
 ### [Ruby on Rails Website | CSCI 334](/project3.md)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/Home_Page.png)
 
 ---
 ### [Comp Arch lab or Verilog | CSCI 330](/project4.md)
