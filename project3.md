@@ -56,7 +56,7 @@ Fig 7. A page listing all of the users.
 ![screenshot](images/Teams_Page_Admin.png)  
 Fig 8. A page listing all of the teams competing in the race.
 
-![screenshot](images/Show_Team_Memebers.png)  
+![screenshot](images/Show_Team_Members.png)  
 Fig 9. When the Show option is clicked, all of the team members are displayed.
 
 ![screenshot](images/Edit_Team.png)  
