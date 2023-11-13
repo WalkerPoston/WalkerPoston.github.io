@@ -24,7 +24,7 @@ Programming Projects
 ---
 ### [Comp Arch Verilog Lab | CSCI 330](/project4.md)
 
-![Project 4 Thumbnail Name](images/VerilogLab.png)
+![Project 4 Thumbnail Name](images/VerilogLabOutput.png)
 
 ---
 
