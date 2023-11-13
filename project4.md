@@ -28,14 +28,15 @@ make run
 
 ## UI Design
 
-
+Once the project is run, the output will be immediately displayed on the screen (Fig 1). There is no other way to run this project because in order to run it successfully, both files (D_Latch.v and D_Latch_Inputs.v) need to be run simultaneously otherwise the project won't work properly (Fig 2).
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/VerilogLabOutput.png)  
+Fig 1. Proper project output.
 
-![screenshot](images/VerilogLab.png)  
-Fig 1. 
+![screenshot](images/VerilogLabRunError.png)  
+Fig 1. When the project is run without both files.
 
 ## 3. Additional Considerations
 
