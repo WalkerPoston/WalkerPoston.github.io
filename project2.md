@@ -30,7 +30,7 @@ How to run individual files.
 
 ## UI Design
 
-Once the program is executed, the results will output to the screen (see Fig 1). You will see in the output that the program parsed all of the files that were included in the code. Then, below that, there will be a table with three columns that have the page, whether the page is balanced, and the number of pages that can be visited from that page. Figure 2 is an example of the program running with only two files as input.
+Once the program is executed, the results will be displayed on the screen (see Fig 1). You will see in the output that the program parsed all of the files that were included in the code. Then, below that, there will be a table with three columns that have the page, whether the page is balanced, and the number of pages that can be visited from that page. Figure 2 is an example of the program running with only two files as input.
 
 ![screenshot](images/Project2-AllFiles.png)  
 Fig 1. Program output with all files as input
