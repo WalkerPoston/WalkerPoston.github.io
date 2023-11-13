@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/Home_Page.png)
 
 ---
-### [Comp Arch lab or Verilog | CSCI 330](/project4.md)
+### [Comp Arch Verilog Lab | CSCI 330](/project4.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/VerilogLab.png)
 
 ---
 
