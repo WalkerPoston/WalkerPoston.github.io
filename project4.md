@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Computer Architecture Lab/Verilog Lab
+Computer Architecture Verilog Lab
 ===============
 
 -   **Class:** CSCI 330
 -   **Grade:** B
 -   **Language(s):** Assembly/Verilog
--   **Source Code Repository:** [WalkerPoston/WalkerPoston.github.io](https://github.com/WalkerPoston/WalkerPoston.github.io)  
+-   **Source Code Repository:** [WalkerPoston/Computer-Architecture-Lab](https://github.com/WalkerPoston/Computer-Architecture-Lab)  
     (Please [email me](mailto:walkerposton@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
