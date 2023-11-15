@@ -7,7 +7,7 @@ description: > # your text below (remove <br /> elements if you don't need line 
   In partial fulfillment of the requirements for the degree of
   Bachelor of Science in Cyber Security (class of 2023)
   <br /><br />
-  <a href="https://example.com/resume">View My Resume</a>
+  [View My Resume](/pdf/Updated-Resume.pdf)
   <br /><br />
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
 repository: "WalkerPoston/WalkerPoston.github.io"
