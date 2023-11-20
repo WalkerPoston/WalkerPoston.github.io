@@ -39,7 +39,7 @@ Ethics Papers
 ### [Ethics Paper: Therac-25](/pdf/Ethics_Paper.pdf)
 
 -   **Class:** CSCI 315 - Data Structures Analysis
--   **Grade:** D
+-   **Grade:** B
 
 ### [Network Penetration Ehtics Paper](/pdf/Network_Pen_Ethics_Paper.pdf)
 
