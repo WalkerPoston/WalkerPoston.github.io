@@ -44,11 +44,7 @@ Fig 5. Sell screen when all parameters are entered and maintenance boxes are che
 Fig 6. Sell screen with unchecked maintenance boxes.
 
 ![screenshot](images/OOP_Figure_7.png)  
-Fig 7. A new vehicle is shown in the inventory.
-
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Fig 7. A new vehicle is shown in the inventory. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
