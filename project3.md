@@ -62,10 +62,6 @@ Fig 9. When the Show option is clicked, all of the team members are displayed.
 ![screenshot](images/Edit_Team.png)  
 Fig 10. When the Edit option is clicked, the admin can edit the team name.
 
-## 3. Additional Considerations
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
